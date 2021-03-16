@@ -7,11 +7,11 @@ Files:
 
 Running the tests:
 The execution happens in Chrome browser in both head(With browser open) and headless(without opening browser) mode in a parallel fashion.
-To execute, Open command prompt in project's root folde(AutomationExercise) and run the command "protractor ./Config/conf-ui.js" (excluding quotes).
+To execute, Open command prompt in project's root folder and run the command "protractor ./Config/conf-ui.js" (excluding quotes).
 The scripts will run and the execution logs can be seen in the terminal.
 
 To Run:
-1. Open command prompt/terminal in the projects root folder(CodeExercise).
+1. Open command prompt/terminal in the projects root folder.
 2. Run the command 'npm install' initially to install all the required packages.
 3. Then to run the script, run the command 'protractor protractor.conf.js'.
-4. There is a Run file placed in the project Root folder(CodeExercise/Run.bat), double clicking on which will run our test scripts
+4. There is a Run file placed in the project Root folder(Run.bat), double clicking on which will run our test scripts
